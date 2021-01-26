@@ -73,7 +73,9 @@ else{
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+<meta name="description"
+    content="CRUD is an acronym for the four basic types of SQL commands: Create , Read , Update , Delete . ... A CRUD application is one that uses forms to get data into and out of a database. In the next section we will create a Seam Web application, connect it to the HSQL database and add CRUD support.This application is develoved by wikivky(Ashis panda)">
+  <meta name="robots" content="index, follow" />
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
     integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
